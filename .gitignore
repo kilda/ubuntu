@@ -16,3 +16,4 @@ Makefile.local
 custom.sh
 script/custom/*
 !script/custom/.gitkeep
+*.log

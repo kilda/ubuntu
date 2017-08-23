@@ -179,7 +179,6 @@
         "script/parallels.sh",
         "script/motd.sh",
         "{{user `custom_script`}}",
-        "script/minimize.sh",
         "script/cleanup.sh"
       ],
       "type": "shell"
